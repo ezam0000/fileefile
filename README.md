@@ -1,2 +1,2 @@
 # fileefile
-just a file
+ai-plugin.json, logo.png, openapi.yaml
