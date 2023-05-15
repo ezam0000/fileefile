@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://pluginheroku.herokuapp.com/openapi.yaml",
+    "url": "https://ezam0000.github.io/fileefile/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://pluginheroku.herokuapp.com/logo.png",
+  "logo_url": "https://ezam0000.github.io/fileefile/logo.png",
   "contact_email": "cruz@beamdata.xyz",
   "legal_info_url": "http://www.example.com/legal"
 }
